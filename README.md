@@ -1,2 +1,4 @@
 # James Willmus' web-dev-hw
 # Repository for my Intro to Web Design Homework
+
+# Week 2:  For assignment 02, I logged into GitHub and created a new repository where future assignments will be created or uploaded.  After that, I created a depository for assignment-02 and proceeded to answer the questions given in the 'Homework 2' pdf document.  At the same time I read through week 2's materials on the course website.  What challenged me this week was understanding the lexicon the course is using to describe working within Git-Hub.  Eventually I pieced things together, such as a depository being a folder.  One thing that is still bugging me is using the names given in the instructions. To be completely honest, I would call things different names that I would recognize (i.e. weekly summaries instead of 'README' files).
