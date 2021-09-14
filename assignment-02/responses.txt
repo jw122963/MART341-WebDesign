@@ -1,0 +1,22 @@
+# 1: How is the World Wide Web different from the Internet?
+# The World Wide Web (WWW) is basically a communication system that uses URL's to share information across the planet.
+# The internet is a network of interconnected computers that allows information to be shared via systems like the world wide web.
+
+# 2: Briefly describe how the internet works.
+# The internet works by connecting computers (user devices) and servers together with wired connections (Ethernet) and wireless connections (Wi-Fi, Satillite, etc...)
+# By linking computers and servers together on a global network, it's possible to access files from the opposite side of the planet within seconds.
+
+# 3: What is a directory, and what is its relationship to files?
+# Just like in the physical world, directories are used to organize files.  Commonly called folders, heirarchies can be nested within each other to create a heirarchal sorting of files.
+
+# 4: How will VCS benefit you?
+# VCS allows me to better manage web development mainly by keeping track of changes to the source code, including knowing who made changes and when.
+
+# 5: Take a screenshot any time when doing homework.
+# DONE
+
+# 6: What is your favorite kind of art?
+# My favorite art is oil painting, specifically landscapes.
+
+# 7: Rename screenshot and upload to dassignment-02 directory.
+DONE
