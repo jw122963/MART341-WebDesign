@@ -1,0 +1,7 @@
+Question 1: Youtube.com, Reddit.com, facebook.com
+Question 2: An IP address is an individual code assigned to each computer or server.
+            A DNS (Domain Name Service) is a way to attach a name to an IP address on a host server.
+Question 3: An HTTP cookie is basically a shortcut for data being transfered between a computer and website.
+            Cookies are placed on the computer with small packets of data to help websites update and/or
+            exchange data with the website.
+Question 4: A scheme, a host, and a path are the three main parts of a URL address.
