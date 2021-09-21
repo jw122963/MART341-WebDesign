@@ -6,5 +6,7 @@
 * I just learned how to run a program like Atom, which is a new experience to me.
 
 [Link](https://www.youtube.com)
-[Link](https://github.com/jw122963/MART341-WebDesign/blob/main/assignment-03/images/MART341-assignment-03-screenshot-01.PNG)
+
+[Link](https://github.com/jw122963/MART341-WebDesign/blob/main/assignment-03/responses.txt)
+
 ![Image](https://github.com/jw122963/MART341-WebDesign/blob/main/assignment-03/images/MART341-assignment-03-screenshot-01.PNG)
