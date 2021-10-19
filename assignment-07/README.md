@@ -1,1 +1,4 @@
-
+Question 1:  I've ran across many different forms on the web.  Usually, the form exists for me to subscribe to the website, a newsletter, or to follow the site on social media.
+Question 2:  Example of a text would be an area to leave a comment on a website.  An example of a selection would be a filter used in a search database for a website.  An example of
+a button input would be a subscribe or follow button to recieve new content periodically from the website.  Their usaga is pretty ubiqutous, but the comment is used at the bottom of a web post, a selection would be used to filter out results in a database that are irrelevent to the user, and a button input would be used to add followers to a website.
+Question 3:  I cramed today to get everything done due to a lot of different assignments being due at once today.
