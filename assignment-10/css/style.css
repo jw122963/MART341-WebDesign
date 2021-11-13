@@ -20,4 +20,11 @@ p {
 
 .paragraph3 {background-color: darkgoldenrod; }
 
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /*Troubleshooting on 11/12*/
