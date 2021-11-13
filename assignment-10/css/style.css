@@ -1,9 +1,5 @@
 html {height: 100%;}
 
-  body {
-    text-align: center;
-  }
-
 h1 {
   text-align: center;
   font-size: 1em;
@@ -23,12 +19,5 @@ p {
              opacity: 80;} 
 
 .paragraph3 {background-color: darkgoldenrod; }
-
-.image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
 /*Troubleshooting on 11/12*/
