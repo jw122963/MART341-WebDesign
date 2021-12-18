@@ -66,3 +66,14 @@ body {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .navmenu:hover .menu {background-color: Navy;} 
+
+.contact_info {
+    margin: auto;
+    width: 60%;
+    border: 4px solid navy;
+    color: black;
+    background: ghostwhite;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 50px;
