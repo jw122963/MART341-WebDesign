@@ -2,14 +2,14 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="description" content="Instructables Page to learn about Photosynthesis">
-        <meta name="author" content="Montana Media Arts">
+        <meta name="description" content="Instructions on how to level a 3D printer">
+        <meta name="author" content="James Willmus">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Photosynthesis</title>
+        <title>Leveling a 3D Printer</title>
         <style>
             div {
-                background-color: lightgray;
-                border: 1px black solid;
+                background-color: beige;
+                border: 4px darkblue solid;
             }
             body {
                 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,56 +18,75 @@
     </head>
     <body>
         <nav>
-            <a href="index.html">Home</a>&vert;<a href="about.html">About Us</a>&vert;<a href="contact.html">Contact Us</a>
+            <a href="index.html">Instructions</a>&vert;<a href="about.html">About</a>&vert;<a href="contact.html">Contact</a>
         </nav>
         <p>&nbsp;</p>
-        <h1>What is needed?</h1>
+        <h2>What do you need to level a 3D printer</h2>
         <ul>
-            <li>Drawing of a leaf with an envelop on both sides
-                <ul>
-                    <li>
-                        one labeled "in"
-                    </li>
-                    <li>
-                        one labeled "out"
-                    </li>
-                </ul>
-            </li>
-            <li>Drawing of the sun.</li>
-            <li>Drawing of air</li>
-            <li>Drawing of water</li>
-            <li>Drawing of sugar</li>
-            <li>Drawing of carbon dioxide</li>
+            </li>Single sheet of printer paper
+            <li>Bubble level</li>
+            <li>Allen key depending on machine</li>
+            <li>Screw driver depending on machine</li>
         </ul>
 
-        <h1>Photosynthesis Instructable</h1>
+        <h2>Leveling your 3D printer</h2>
 
-        <div><h2>Step 1 - Setup the Leaf Envelope</h2></div>
-        <div style="margin:auto; padding:10px">
-            <span style="padding:50px;">
-                <p>The leaf envelope will be our visual tool to indicate what parts go into the leaf and what comes out if the leaf during photosynthesis.</p>
+        <div><h4>First, adjust settings to turn off stepper motors</h4></div>
+        <div style="margin:auto; padding:12px">
+            <span style="padding:40px;">
+                <p>Stepper motors control the movement of the printer extrudger (nozzle). With htem engaged, moving the printer head manually is nearly impossible.
+                Find in the menu the control for the stepper motors and have them turned off temporarily.</p>
                 <img src="images/step1.jpg" alt="Leaf envelope" title="Leaf envelope" /></span>
             
         </div>
         
-        <div><h2>Step 2 - Determine what the leaf takes in</h2></div>
-        <div style="margin:auto; padding:10px">
-            <span style="padding:50px;">
-                <p>In this part, the player should choose which items the leaf takes in during photosynthesis. It should be water, sunlight, and carbon dioxide</p>
+        <div><h4>Second, remove and clean build plate</h4></div>
+        <div style="margin:auto; padding:12px">
+            <span style="padding:40px;">
+                <p>The build plate should be cleaned before and after every printing session.  The reason is that plastic, dust, dirt, and whatever else can make adhering to the 
+                    build plate difficult. Use only soap and water followed by thoroughly drying the build plate. Wipe build plate with 90% rubbing alcohol to cut down 
+                    on grease and soap.</p>
                 <img src="images/step2.jpg" alt="What does the leaf take in?" title="What does the leaf take in?" /></span>
             
         </div>
 
-        <div><h2>Step 3 - What does the leaf produce and expel</h2></div>
-        <div style="margin:auto; padding:10px">
-            <span style="padding:50px">
-                <p>In this last section, the player should determine what items the plant produces.  It should be oxygen and sugar (aka glucose).</p>
+        <div><h4>Third, re-attach build plate and set auto-home or auto-zero</h4></div>
+        <div style="margin:auto; padding:12px">
+            <span style="padding:40px">
+                <p>Once the build plate has been cleaned, re-attach it to the machine via the instructions specific to your printer.  Once attached, set the machine to 
+                    auto-home or auto-zero.  Doing so will return the extruder to x=0, y=0, and z=0.  If there is no auto feature, set these coordinates manually.</p>
                 <img src="images/step3.jpg" alt="What does the leaf produce?" title="What does the leaf produce?" /></span>
         </div>
 
-        <div><h2>Learn even more about Photosynthesis</h2></div>
-        <div style="margin:auto; padding:10px">
-            <span style="padding:50px"><iframe width="560" height="315" src="https://www.youtube.com/embed/68b1HAIfX08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+        <div><h4>Fourth, slide paper between extrudger nozzle and build plate</h4></div>
+        <div style="margin:auto; padding: 12px">
+            <span style="padding:40px">
+                <p>The paper is used as a gauge so that there is just enough of a gap between the nozzle and the build plate for filament to be laid down. This first corner
+                    should be adjusted so that there is a small amount of friction from the nozzle 'pinching' the paper on the build plate, but the paper should still be
+                    able to move without much force.</p>
+        </div>
+            
+        <div><h4>Fifth, move nozzle to each corner of the build plate and zero.</h4></div>
+        <div style="margin:auto; padding:12px">
+            <span style="padding:40px">
+                <p>With one corner done, it is time to move the nozzle to the other corners.  Do not move along the z axis (vertical), only horizontal.  This can be done
+                manually by turning off the stepper motors or automatically by putting in coordinates for the extruder.  At each corner there should be a screw or thumbwheel
+                that can be turned to raise or lower the build plate.</p>
+                <img src="images/step3.jpg" alt="What does the leaf produce?" title="What does the leaf produce?" /></span>
+          
+        </div>
+            <div><h4>Sixth, double check each corner/h4></div>
+        <div style="margin:auto; padding:12px">
+            <span style="padding:40px">
+                <p>The final step in the process is to double check that each corner is properly leveled.  Failing to do so means taking a risk that the print will fail.
+                If that happens, the whole thing must start over.  Once everything looks good, it's time to start up the printer!</p>
+                <img src="images/step3.jpg" alt="What does the leaf produce?" title="What does the leaf produce?" /></span>
+        </div>
+        
+        <div><h2>See how a pro levels his 3D printer!</h2></div>
+        <div style="margin:auto; padding:12px">
+            <span style="padding:40px"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=_EfWVUJjBdA" frameborder="0" 
+             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
         </div>
 
     </body>
