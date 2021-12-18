@@ -70,7 +70,8 @@ body {
 .navmenu:hover .menu {background-color: Navy;} 
 
 .contact_info {
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 60%;
     border: 4px solid navy;
     color: black;
@@ -78,7 +79,6 @@ body {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
-    align: center;
     padding: 50px;
     }
 
