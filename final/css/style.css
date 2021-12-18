@@ -2,6 +2,16 @@ body {
   background-color: silver;
 }
 
+.mainheader {
+  padding: 10px;
+  min-width: 400px;
+  text-align: center;
+  background: Navy;
+  color: white;
+  font-size: 24px;
+  border-radius: 10px;
+}
+
  /* Dropdown Button */
 .menu {
   background-color: Navy;
