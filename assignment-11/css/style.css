@@ -1,0 +1,48 @@
+div{
+    text-align: left;
+    line-height: 1.25em;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 12px;
+    padding: 4px;
+    }
+
+h2, h4, h6{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.paragraph1{
+    color: #244523;
+    font-size: 16px;
+    text-indent: 12px;
+    font-weight:700;
+    }
+
+.paragraph1::first-line{
+    font-size: 16px;
+    }
+
+.paragraph2{
+    font-size: 16px;
+    }
+
+#bookinformation{
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+    }
+
+#bookinformation:hover{
+    font-family:  "Times New Roman", Times, serif;
+    text-decoration: underline;
+    font-weight: 700;
+    }
+
+table{
+    border: 4px solid darkblue;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    }
+
+p{
+    font-family:  "Times New Roman", Times, serif;
+}
