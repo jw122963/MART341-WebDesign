@@ -84,7 +84,7 @@ body {
 
 .img {
   margin: auto;
-  Width: 60%;
+  Width: auto;
   border: 4px solid navy;
   color: black;
   background: ghostwhite;
