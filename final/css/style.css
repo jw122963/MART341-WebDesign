@@ -79,3 +79,16 @@ body {
     align: center;
     padding: 50px;
     }
+
+.img {
+  margin: auto;
+  Width: 60%;
+  border: 4px solid navy;
+  color: black;
+  background: ghostwhite;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  align: center;
+  padding: 50px;
+  }
