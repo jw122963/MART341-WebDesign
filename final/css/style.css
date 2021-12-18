@@ -12,6 +12,18 @@ body {
   border-radius: 10px;
 }
 
+.bodytext {
+  margin: auto;
+  width: 60%;
+  border: 4px solid navy;
+  color: black;
+  background: ghostwhite;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: left;
+  padding: 10px 50px;
+  }
+
  /* Dropdown Button */
 .menu {
   background-color: Navy;
