@@ -21,7 +21,7 @@ body {
   padding: 10px;
   border-radius: 10px;
   text-align: left;
-  padding: 10px 50px;
+  padding: 50px;
   }
 
  /* Dropdown Button */
@@ -76,4 +76,5 @@ body {
     padding: 10px;
     border-radius: 10px;
     text-align: center;
-    padding: 10px 50px;
+    padding: 50px;
+    }
