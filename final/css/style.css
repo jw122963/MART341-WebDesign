@@ -4,7 +4,7 @@ body {
 
  /* Dropdown Button */
 .menu {
-  background-color: #AFAFAF;
+  background-color: Navy;
   color: white;
   padding: 10px;
   font-size: 20px;
@@ -42,4 +42,4 @@ body {
 .navmenu:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.navmenu:hover .menu {background-color: #3e8e41;} 
+.navmenu:hover .menu {background-color: Navy;} 
